@@ -1,4 +1,4 @@
-module github.com/open-telemetry/opentelemetry-collector-contrib/internal/aws/awsutil
+module github.com/open-telemetry/opentelemetry-collector-contrib/aws/awsutil
 
 go 1.23.0
 
