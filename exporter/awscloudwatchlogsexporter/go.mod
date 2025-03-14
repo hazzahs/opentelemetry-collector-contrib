@@ -1,4 +1,4 @@
-module module github.com/hazzahs/opentelemetry-collector-contrib/exporter/awscloudwatchlogsexporter
+module github.com/hazzahs/opentelemetry-collector-contrib/exporter/awscloudwatchlogsexporter
 
 go 1.23.0
 
